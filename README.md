@@ -55,7 +55,6 @@ La configuración del `config.json` es la parte más importante.
 
   * **`token`**: Es tu token de autorización personal de Discord.
       * **¡NUNCA COMPARTAS ESTE TOKEN CON NADIE\!** Quien lo tenga, tiene control total de tu cuenta.
-      * Puedes obtenerlo desde la consola de desarrollador de tu navegador (F12) en la pestaña "Network" (Red) mientras usas Discord web. Busca peticiones a `/api/v9/` y mira en los "Request Headers" (Encabezados de la petición) el valor de `authorization`.
   * **`mudae_id`**: Es el ID de usuario del bot Mudae en tu servidor. Por defecto suele ser `432610292342587392`.
   * **`server_id` y `channel_id`**: IDs del servidor y canal donde quieres que el bot opere.
   * **`kl_channel_id`**: (Opcional) ID del canal específico para las tareas de `$kl` y `$p`.
