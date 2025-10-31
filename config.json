@@ -1,0 +1,33 @@
+{
+    "token": "",
+    "mudae_id": 432610292342587392,
+    "server_id": "",
+    "channel_id": "",
+    "auto_roller_enabled": false,
+    "roll_command": "wa",
+    "repeat_minute": "15",
+    "max_rolls_per_session": 300,
+    "min_kak_to_claim": 700,
+    "desired_series": [
+        "Sword Art Online",
+        "Dragon Ball Z",
+        "Hololive"
+    ],
+    "desired_characters": [
+        "Kaoruko Waguri",
+        "Kaori Miyazono"
+    ],
+    "desired_kakeras": [
+        "kakeraP",
+        "kakeraW",
+        "kakeraL"
+    ],
+    "tasks": {
+        "daily_enabled": false,
+        "pokeslot_enabled": false,
+        "arlp_enabled": false,
+        "kl_enabled": false,
+        "kl_channel_id": "",
+        "kl_amount": 12000
+    }
+}
