@@ -1,3 +1,4 @@
+# By Ldarkrai
 -----
 
 # SelfMudae
@@ -9,7 +10,7 @@ El bot funciona cargando módulos (Cogs) que se ejecutan en segundo plano:
   * **Roller (`cogs/roller.py`):** Gestiona las tiradas horarias, el reclamo de personajes y el "snipeo" de kakera.
   * **Tasks (`cogs/task.py`):** Gestiona tareas automáticas como `$daily`, `$pokeslot`, `$arlp` y `$kl`.
 
-Además, utiliza un servidor web [Flask](https://flask.palletsprojects.com/) básico que se ejecuta en un hilo separado. Esto es comúnmente usado para mantener el bot activo en plataformas de hosting gratuito (como Replit, Render, etc.).
+# Además, utiliza un servidor web [Flask](https://flask.palletsprojects.com/) básico que se ejecuta en un hilo separado. Esto es comúnmente usado para mantener el bot activo en plataformas de hosting gratuito (como Replit, Render, etc.).
 
 -----
 
